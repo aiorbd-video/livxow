@@ -10,6 +10,7 @@ async function generateSMLive() {
   const hideKeywords = [
     "tapmad", 
     "toffee"
+    "fancode"
   ];
 
   try {
