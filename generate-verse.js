@@ -1,5 +1,8 @@
 const fs = require('fs');
 
+// আপনার পছন্দমতো ফোল্ডারের পাথ দিন
+const folderPath = 'database/media'; 
+
 async function generateVerse() {
   const jsonUrl = 'https://verse-tv-141bb-default-rtdb.asia-southeast1.firebasedatabase.app/channels.json';
 
@@ -31,9 +34,14 @@ async function generateVerse() {
       }
     }
 
-    // ফাইলটি গিটহাবে সেভ করা হচ্ছে
-    fs.writeFileSync('verse.m3u', m3u);
-    console.log("Successfully generated verse.m3u");
+    // ফোল্ডার না থাকলে তৈরি করবে
+    if (!fs.existsSync(folderPath)) {
+      fs.mkdirSync(folderPath, { recursive: true });
+    }
+
+    // নির্দিষ্ট ফোল্ডারে ফাইল সেভ করবে
+    fs.writeFileSync(`${folderPath}/verse.m3u`, m3u);
+    console.log(`Successfully generated ${folderPath}/verse.m3u`);
 
   } catch (error) {
     console.error("Error generating Verse M3U:", error.message);
