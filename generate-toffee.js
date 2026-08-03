@@ -1,5 +1,8 @@
 const fs = require('fs');
 
+// আপনার পছন্দমতো ফোল্ডারের পাথ দিন
+const folderPath = 'database/media'; 
+
 async function generateToffee() {
   const SOURCE_URL = "https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/toffee_OTT_Navigator.m3u";
 
@@ -66,9 +69,14 @@ async function generateToffee() {
       }
     }
 
-    // ফাইলটি গিটহাবে সেভ করা হচ্ছে
-    fs.writeFileSync('toffee.m3u', m3u.join("\n"));
-    console.log("Successfully generated toffee.m3u");
+    // ফোল্ডার না থাকলে তৈরি করবে
+    if (!fs.existsSync(folderPath)) {
+      fs.mkdirSync(folderPath, { recursive: true });
+    }
+
+    // নির্দিষ্ট ফোল্ডারে ফাইল সেভ করবে
+    fs.writeFileSync(`${folderPath}/toffee.m3u`, m3u.join("\n"));
+    console.log(`Successfully generated ${folderPath}/toffee.m3u`);
 
   } catch (e) {
     console.error("Error generating Toffee M3U:", e.message);
