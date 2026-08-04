@@ -4,8 +4,8 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 2026-08-04 03:02:04 (BD Time)
-# 📺 Channels Count: 473
+# 🕒 Last Updated: 2026-08-04 07:02:11 (BD Time)
+# 📺 Channels Count: 472
 # 🔒 Usage: Personal / Educational
 #=================================
 #EXTM3U url-tvg="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/epg.xml"
@@ -889,24 +889,6 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png" group-title="IPTV",Zee TV HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://fifa.assadikb.workers.dev/?id=zee_tv_hd
-
-#EXTINF:-1 tvg-name="West Indies Vs Pakistan [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Fancode",West Indies Vs Pakistan [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/143634_english_hls_3a8752838638691_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-name="Center Court [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Fancode",Center Court [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4248062_english_hls_3d9cae3bf277024_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-name="World Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Fancode",World Feed [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4248063_english_hls_1effecd64e43748_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-name="Court 5 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Fancode",Court 5 [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4248064_english_hls_9c9081b60732638_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-name="Court 9 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="Fancode",Court 9 [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4248065_english_hls_f97aa26d5748943_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-name="Rogers Court [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1785743069832/4248249_CASACARDS_SPORTY_APP.png" group-title="Fancode",Rogers Court [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4248249_english_hls_8c2f07b92d49034_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-id="atn_news" tvg-name="ATN News" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4c788f2e0bc6f83a4fdde6022843368a_playmist_atn_news_400x400.jpg" group-title="Aynaott",ATN News
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=atn_news&format=.m3u8
