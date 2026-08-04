@@ -9,7 +9,7 @@ async function generateSMLive() {
   // ভবিষ্যতে কোনো ডেড চ্যানেল হাইড করতে চাইলে শুধু তার নামটা এখানে বসিয়ে দেবেন।
   const hideKeywords = [
     "tapmad", 
-    "toffee"
+    "toffee",
     "fancode"
   ];
 
