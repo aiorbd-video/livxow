@@ -3,7 +3,7 @@ const fs = require('fs');
 const folderPath = 'database/media';
 
 async function generateSMLive() {
-  const SOURCE_URL = "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/Combined_Live_TV.m3u";
+  const SOURCE_URL = "https://m3u-tvb.pages.dev/ayna+.m3u";
 
   // যেসব চ্যানেল বা ক্যাটাগরি হাইড করতে চান সেগুলোর নাম (ছোট হাতের অক্ষরে) এখানে কমা দিয়ে দিয়ে লিখুন।
   // ভবিষ্যতে কোনো ডেড চ্যানেল হাইড করতে চাইলে শুধু তার নামটা এখানে বসিয়ে দেবেন।
