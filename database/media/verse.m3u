@@ -55,14 +55,12 @@ https://korim.packingggl.workers.dev/api/bc508cf627/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12131_h15_aa.png" group-title="Cartoon",Cartoon Network USA
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHf9xMETXN0thbLoPCZ5sX_lFjqxJ8gqqnUjSBD21h9hgjI5mq6NXlv7I&s=10" group-title="Sports",T sports
-http://line.dream-4k.cc:80/live/T9PDHQSJ6E/W1KLEGZ9VE/756462.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="Sports",T sports
+https://go.skym3u.top/live/3b1f0d3d095a7062525c5c535a4b59457161524c2648272f5d4246457c021729560d713d560755.m3u8
 #EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentry",Travelxp
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="Unknown",Gazi Tv
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrCvmx29jQEkR2_2M5OupZARfB4kZ9-K4tE8L0R8LwZMbQqCACINH3-q0&s=10" group-title="Entertainment",SRK TV
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Euro Sports
 https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZNzE0PllJX5OQ7Wm5Ytz6kb7_a3TxhwwsKYbp1FNdWg-AL0lzBnyjGAGb&s=10" group-title="Sports",Bein sports 3
@@ -302,13 +300,13 @@ http://xx96.uk:8880/44676990/10884764/325150
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="General",Lionsgate Play
 http://103.159.180.34:5001/live/2327.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="Movies",Movies Thriller (1080p)
-https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
+https://go.skym3u.top/live/3b1f0d3d404f707f161a094c0f080959393216175c001038575e574e27081d231d1b3a244a0615515f57410433321c0f1b1600715f03470e.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="Movies",MovieSphere AU (1080p)
 https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="Movies",MovieSphere UK (1080p)
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+https://go.skym3u.top/live/3b1f0d3d404f707f081d1b080b161e1c3a2100161948073e5f434758341e126352183e370c5c191741150215263f0c10064b196c4708.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="Movies",MyTime Movie Network (1080p)
-https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+https://go.skym3u.top/live/3b1f0d3d404f707f04021d0d0b111c113a7e081a060c193a53451f4532060a385d12713108130a084011185b2f3f041a1e0c072b1c5d01436b.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="General",Baiscope TV
 https://live.ekamraott.com/baiscope/baiscope/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="General",Ekamra Bharat Odia
@@ -375,8 +373,6 @@ https://mumbai-edge.smartplaytv.in/GeminiMoviesHD/index.m3u8
 http://103.159.180.34:5001/live/962.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="General",Arre HD
 http://103.159.180.34:5001/live/963.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="General",Star Gold Select HD
-http://202.70.146.135:8000/play/a068/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="General",Star Plus HD
 http://202.70.146.135:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="General",Star Gold 2 HD
@@ -607,5 +603,65 @@ https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 https://cdn-4.pishow.tv/live/969/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Live Sports-3
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Akash Aath
-https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="General",Colors Bangla
+https://go.skym3u.top/live/3b1f0d3d404f707f091b1b0440160615323a084e1b1500291c475d44380e0b3e1d113a264a31222d21373d361e1d222f332d30715f03470e.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="General",Colours Bangla Chinema
+https://go.skym3u.top/live/3b1f0d3d404f707f091b1b0440160615323a084e1b1500291c475d44380e0b3e1d113a264a11020d01101c073d320b041e0417375b5e575b3245147e464d.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="General",আকাশ ৮
+https://go.skym3u.top/live/3b1f0d3d404f707f091b1b0440160615323a084e1b1500291c475d44380e0b3e1d113a264a1306001d0d565a3260105b.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="General",Ente10 Bangla
+https://go.skym3u.top/live/3b1f0d3d404f707f091b1b0440160615323a084e1b1500291c475d44380e0b3e1d113a264a3723352b375f441d122b243e245a3201450a.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="News",Jago News 24
+https://go.skym3u.top/live/3b1f0d3d404f707f091b1b0440160615323a084e1b1500291c475d44380e0b3e1d113a264a180c06010b0b032c61514d1f560167.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="Music",ATN Music
+https://go.skym3u.top/live/3b1f0d3d404f707f091b1b0440160615323a084e1b1500291c475d44380e0b3e1d113a264a13190f03101d1d3c7d0850075d.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="General",0. Toon Goggles
+https://go.skym3u.top/live/3b1f0d3d404f707f091b1b0440160615323a084e1b1500291c475d44380e0b3e1d113a264a42190e010b091b38340906014b196c4708.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="General",Euro TV
+https://go.skym3u.top/live/3b1f0d3d404f707f091b1b0440160615323a084e1b1500291c475d44380e0b3e1d113a264a37383321363e3b0d07362b364b196c4708.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="Sports",STAR SPORTS 1 JADOO
+https://go.skym3u.top/live/3b1f0d3d404f707f091b1b0440160615323a084e1b1500291c475d44380e0b3e1d113a264a2139203c363e3b0d0736523a215a3201450a.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="Sports",SONY SPORTS 1HD
+https://go.skym3u.top/live/3b1f0d3d404f707f091b1b0440160615323a084e1b1500291c475d44380e0b3e1d113a264a21222f37312b3a6e1b214d1f560167.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="Sports",SONY SPORTS 2 HD
+https://go.skym3u.top/live/3b1f0d3d404f707f091b1b0440160615323a084e1b1500291c475d44380e0b3e1d113a264a21222f37312b3a6d1b214d1f560167.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="Sports",SONY SPORTS 5 HD
+https://go.skym3u.top/live/3b1f0d3d404f707f091b1b0440160615323a084e1b1500291c475d44380e0b3e1d113a264a21222f37312b3a6a1b214d1f560167.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="General",Ananda TV
+https://go.skym3u.top/live/3b1f0d3d404f707f04021d4f00060f063a7d090a04005b3c01664b523e3d00150b272f322027542c075d163a266b1c2e362044187b746700010c031c053b0b110216280e0f00280e3d155c512b320c1668647d06065b1c377d44162a280b0b170d22383905162f202620320857667c05033f362057332c313220190039505f1536030d0d22313d6d1d515c573d0f1839455b2c2417170c0c410907023a7e0a11150c1a70535e5358370a0d3b1d062b220013004e1e090f0d333a16175c08472a0a.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="General",Channel S
+https://go.skym3u.top/live/3b1f0d3d404f707f04021d4f00060f063a7d090a04005b3c01664b523e3d00150b272f322027542c075d163a266b1c2e362044187b746700010c031c053b0b110216280e0f00280e3d155c512b320c1668647d06065b1c377d44162a280b0b170d22383905162f202620320857667c05033f362057332c313220190039505f1536030d0d22313d6d1d535a573d051c21405b2c2417170c0c410907023a7e0a11150c1a70515853583d0e153e1d062b220013004e1e090f0d333a16175c08472a0a.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="Sports",Bein Sports
+https://go.skym3u.top/live/3b1f0d3d095a7025045c020f020c00116d674b131f4a043353491d07625b486200406f1256405b272c565a326b115d4c040c103a5d1e5f052653.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="General",Pritam and Pedro(S1E1)
+https://go.skym3u.top/live/3b1f0d3d404f707f03061d4f0d1109122a3d4b001d085b0b646f615321021c3e1c252d39111300445c550f1a3b7657532200102d5d1f62443a1f182016476f310b1648535e350b102d3c40514236446e1702027e3a051d2416476f6757421d445c5539311d010c135757442700060613615b3c1e46177a62555758232a2120516a174a33000c003e5f15000632051d6801450f35010002445c553d446e165552575744175b5e565f7659497a01452f7557423a242c3707047a61551b4053407a0000776526095c7f03506a12213623445b2140192f67.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="General",Charge! (1080p)
+https://go.skym3u.top/live/3b1f0d3d404f707f03131e1543060615313d000f014b07365c535e573a190a395c07263c0c1c084f0d0a035b1c1b243135205b365c54574e7d064a380b.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="General",Green Gold TV
+https://go.skym3u.top/live/3b1f0d3d404f707f1315010818001d073e3a4b021904193e5b4a57527d051c391c102a7f1343420c0f0b07123a20114c4454453b0509500762094e7a56473965524354525a030a4c6f3004524654476b07030501610a1a7a1c43686504415a045b4808416e64485741511172535453537e0f4b7852106e6755445e555e4a08163b315552450659685006031b670d4f7f1e4d68615c5f5f590c5759116b67065b44575b6b1c5d01436b.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="General",Made in Hollywood
+https://go.skym3u.top/live/3b1f0d3d404f707f061d030f0b061a1d303d564e170b00725c4a1c4532060a385d1271271000014f1a13410433321c0f1b1600715f03470e.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="General",NH BollyFlix
+https://go.skym3u.top/live/3b1f0d3d404f707f061140135b0d1b043c2a08561d001c371c5159573e0a10375611713e000642175f4a0315313a030601115b6c05020055655b187502403c615c4b09580d550b126c6506561052473b53060a5765591b7d0a116e7f061140135b0d1b043c2a08561d001c371d540601375a407c03586768534040550c5d5d593e6b04555f55443e51010305635c41780a5a6f7e08411859.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="General",NH BollyRaga
+https://go.skym3u.top/live/3b1f0d3d404f707f061140141e5c04426b6a1d57060d06351c5159573e0a10375611713e000642175f4a0315313a030601115b6c05020055655b187502403c615c4b09580d550b126c6506561052473b53060a5765591b7d0a116e7f061140141e5c04426b6a1d57060d06351d560b05660e1c7a06583d36541040550c0358593e6055005f54126f0b06530663534a2e065a6f7e08411859.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="General",Odisha TV (720p)
+https://go.skym3u.top/live/3b1f0d3d404f707f091b1b041a1340003e21040d1515182a411e5b587c040d3b1e1a2d39021b034e020c1811702309020b091d2c461e5f052653.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="Movies",Rakuten Top Movies UK (1080p)
+https://go.skym3u.top/live/3b1f0d3d404f707f554359545a505f4d686604554607476a0a060407645b1f29011067360446555740080b10363211021b091b2d1c55471b240e0a391e4471310813170e0004190771300a0e5d1345705f5141423619567d06416836544a5b5557070a43676b07061152166905520502650e4d7a05426f365047550358075c5b2f210a07070600365d5e1f7a3a1d1c0e5b14313e001e4054575d595b3232161717175a3201450a.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="Movies",Rakuten TV Action Movies UK (1080p)
+https://go.skym3u.top/live/3b1f0d3d404f707f50465d555b035e176b6303074651463c0a520200370d497a05143e365417555440080b10363211021b091b2d1c55471b240e0a391e4471310813170e0004190771300a0e5d1345705f5141423619567d06416836544a5b5557070a43676b07061152166905520502650e4d7a05426f365047550358075c5b2f210a07070600365d5e1f7a3a1d1c0e5b14313e001e40575e535b5b3232161717175a3201450a.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="Movies",Rakuten TV Comedy Movies UK (1080p)
+https://go.skym3u.top/live/3b1f0d3d404f707f5c10085656560a426a610607460744660b535400600e482950446c6406460c5240080b10363211021b091b2d1c55471b240e0a391e4471310813170e0004190771300a0e5d1345705f5141423619567d06416836544a5b5557070a43676b07061152166905520502650e4d7a05426f365047550358075c5b2f210a07070600365d5e1f7a3a1d1c0e5b14313e001e40575f5d5f5b3232161717175a3201450a.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="General",Sony KAL Hindi (1080p)
+https://go.skym3u.top/live/3b1f0d3d404f707f12071f0d1d0a000d2f3a06170717112c46461c513f041b2c5f5b2b22041c1e0c071140183625004c1a090770040856533609482e03476c6806160c595c0108416b6001075d13457041404669200417345814330f545d010631101d5b3332110601115b3253595c193b070a6243193e29091b1e1540085d0167.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="General",Universal Action (1080p)
+https://go.skym3u.top/live/3b1f0d3d404f707f1d07000e431d1b1930360b175f061c6700081f41651d18211d133e23115c03030d10001d71300a0e5d091d29571f5f57201f1c3f1d186c255d.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="General",Universal Monsters (1080p)
+https://go.skym3u.top/live/3b1f0d3d404f707f1d07000e431d1b1930360b175f061c6700041f52671a4c2e1d133e23115c03030d10001d71300a0e5d091d29571f5f57201f1c3f1d186c255d.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="General",Aastha
+https://go.skym3u.top/live/3b1f0d3d404f707f04131e15060401002b7d040813081536485556183d0e0d6202446f6957414212030c024e3e3216171a0400291c435f5f3f4410235710277e08411859.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="Movies",Zee Cinemalu
+https://go.skym3u.top/live/3b1f0d3d095a7061554143505b5c404567634b50465f416f02011d5a3a1d1c6207446c7e08411859.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="General",Aastha Bhajan
+https://go.skym3u.top/live/3b1f0d3d095a7061554143505b5c404567634b50465f416f02011d5a3a1d1c62064c6b7e08411859.m3u8
