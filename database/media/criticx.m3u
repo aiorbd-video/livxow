@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx6XsJyx/images-(29).png" group-title="sports",🇧🇩 BANGLADESH 🆚 AUSTRALIA 🇦🇺
-http://44.32.200.142:5004/auto/v7
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yzL4VGv/images-(1)-(1).jpg" group-title="entertainment",Quran (CriticX Islamic)
 https://vodzong.mjunoon.tv:8087/streamtest/SaudiQuran-142/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2jtdPKJf/images-(11).png" group-title="news",BTV News HD
@@ -139,14 +137,14 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0vznnym/images-(1)-(30).jpg" group-title="sports",Star Sports 2 HD
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBXSLhLr/images-(1)-(27).jpg" group-title="sports",Willow Sports
+http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCbvKCQx/Sony-Sports-Ten-1.webp" group-title="sports",Sony Ten 1 HD
 https://stream.ottplus.bd/live/ten_1_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8kTW1yj/images-(1)-(10).jpg" group-title="sports",Sony Ten 2 HD
 https://stream.ottplus.bd/live/ten_2_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJrcLbx3/7d0d368840908947f0e3bb344c29c53f.png" group-title="sports",Sony Ten 5 HD
 https://stream.ottplus.bd/live/ten_5_hd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kggtm46Q/images-(5).png" group-title="sports",Euro Sports HD
-https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SQfZPMzq/images-(1)-(28).jpg" group-title="sports",Cricket Gold HD
 https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFKWRJ88/images-(11).jpg" group-title="sports",DD Sports
@@ -161,5 +159,7 @@ http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QYgTGv7/images-(9).png" group-title="news",AL Jazeera HD
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx6XsJyx/images-(29).png" group-title="sports",Channel 7
+http://44.32.200.142:5004/auto/v7
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FD8Tt7Q/images-(1)-(7).jpg" group-title="entertainment",Star Plus HD (test mode)
 http://202.70.146.135:8000/play/a009/index.m3u8
