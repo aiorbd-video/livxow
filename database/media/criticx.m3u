@@ -71,12 +71,14 @@ http://103.159.180.34:5001/live/1669.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRdqsKPB/images-(24).jpg" group-title="entertainment",Sheemaroo TV
 http://103.175.73.12:8080/live/274/274_0.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtvZPQNc/2f66f13b85531977f2990c18ca414e83.png" group-title="movie",Shemaroo Bollywood
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zjsfn8K/Zee-TV-Logo-2017-1.png" group-title="entertainment",Zee TV
+https://stream.ottplus.bd/live/zee_tv_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLHNNPfx/Sony-TV-new.png" group-title="entertainment",Sony Entertainment
 https://stream.ottplus.bd/live/sony_ent_sd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNVB1rS5/Sony-SAB-1.png" group-title="entertainment",Sony Sub HD
 https://stream.ottplus.bd/live/sub_hd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtvZPQNc/2f66f13b85531977f2990c18ca414e83.png" group-title="movie",Shemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdpSj18h/images-(7).png" group-title="movies",SONY  MAX HD
 https://stream.ottplus.bd/live/max_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7fPgc95/images-(23).jpg" group-title="movies",Goldmines Hindi
@@ -89,12 +91,12 @@ https://cdn-2.pishow.tv/live/227/master.m3u8
 https://vods2.aynaott.com/hindimovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgbVsCPq/zee-action-advertising-services.png" group-title="movies",Zee Action
 http://103.175.73.12:8080/live/270/270_0.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1yY521J/images-(27).jpg" group-title="movies",Scream TV HD
-https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3s4brcn/162e6d01542545bde0f4c213a975c7a4.png" group-title="movies",Star Movies Select HD
+http://66.102.126.10:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/25X7tHpc/value-(1).png" group-title="movies",Hollywood Action Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4vm18Nk/images-(1)-(22).jpg" group-title="movies",Cineedge HD
-https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7JLgrqC/images-(30).png" group-title="movies",HBO Movies  HD
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0nKWvfF/images-(2)-(3).jpg" group-title="music",Zoom Music
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Z499545/images-(28).jpg" group-title="music",8XM
