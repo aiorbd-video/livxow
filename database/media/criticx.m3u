@@ -66,25 +66,25 @@ https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y6GQ6f0p/images-(12).jpg" group-title="entertainment",Colors Bangla HD
 http://103.165.93.31:8095/colorsBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ryj0tzp1/images-(8).png" group-title="entertainment",Sun Bangla HD
-http://103.159.180.34:5001/live/1669.m3u8
+http://51.75.127.199:3141/sunbangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0nBn4rp/Dd-Bangla.png" group-title="entertainment",DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRdqsKPB/images-(24).jpg" group-title="entertainment",Sheemaroo TV
 https://streams.tangotv.in/SHEMAROOTV/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zjsfn8K/Zee-TV-Logo-2017-1.png" group-title="entertainment",Zee TV
-https://stream.ottplus.bd/live/zee_tv_hd_abr/index.m3u8
+http://41.205.93.154/ZEE-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLHNNPfx/Sony-TV-new.png" group-title="entertainment",Sony Entertainment HD
 http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYKZL.png?lock=720x540" group-title="entertainment",&TV HD
 http://202.70.146.135:8000/play/a06c/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="entertainment",Colors HD
-http://66.102.126.10:8000/play/a00a/index.m3u8
+http://51.75.127.199:3141/colorssd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FD8Tt7Q/images-(1)-(7).jpg" group-title="entertainment",Star Plus HD
 http://202.70.146.135:8000/play/a009/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdpSj18h/images-(7).png" group-title="movies",SONY  MAX HD
-http://107.167.16.138/sonymax2/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hvvjfk5.png" group-title="movies",Colors Cineplex HD
+http://51.75.127.199:3141/colorscineplexhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTKKC2N3/images-(1)-(20).jpg" group-title="movies",Zee Cinema HD
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7fPgc95/images-(23).jpg" group-title="movies",Goldmines Hindi
 https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vmBSMJCF/Goldmines-Bollywood.webp" group-title="movies",Goldmines Bollywood
@@ -109,18 +109,18 @@ https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vB9cf2PB/images-(1)-(17).jpg" group-title="kids",Tom & Zerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKh4NNLK/Nick-logo-2009.png" group-title="kids",Nick Bangla
-http://live.balajibroadband.com:3500/live/1341.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwkMmr7r/61Wu-Oak-G74L-AC-UF894-1000-QL80.jpg" group-title="kids",Doremon
-https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDWLd471/images-(1)-(16).jpg" group-title="kids",Motu Patlu
-https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XNDXyTfP/images-(1)-(23).jpg" group-title="kids",Gopal Bhar Bangla
-https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzjtksW1/MV5BODE3OTc5Yj-Yt-ZDUz-MS00Yz-M2LWE0YTgt-Zj-Uw-M2Rh-ZWMw-OWE1Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg" group-title="kids",Batul The Great
 https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4H7ypyj/images-(21).png" group-title="kids",Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwkMmr7r/61Wu-Oak-G74L-AC-UF894-1000-QL80.jpg" group-title="kids",Doremon
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XNDXyTfP/images-(1)-(23).jpg" group-title="kids",Gopal Bhar Bangla
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKh4NNLK/Nick-logo-2009.png" group-title="kids",Nick Bangla
+http://live.balajibroadband.com:3500/live/1341.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDWLd471/images-(1)-(16).jpg" group-title="kids",Motu Patlu
+https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q7H9gdPF/CNN-International-logo.jpg" group-title="news",CNN News
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bbr6K7Cm/images-(2)-(3).jpg" group-title="Discover",BBC Earth HD
@@ -139,10 +139,12 @@ http://202.70.146.135:8000/play/a05o/index.m3u8
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNqvcDp8/images-(10).jpg" group-title="sports",T Sports HD
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBXSLhLr/images-(1)-(27).jpg" group-title="sports",Willow Sports
-http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBXSLhLr/images-(1)-(27).jpg" group-title="sportsk",Willow Sports
+https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0vznnym/images-(1)-(30).jpg" group-title="sports",Star Sports 2 HD
 http://tvsen7.aynascope.net/ssport2hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00358PX5.png?lock=720x540" group-title="sports",Unite8 Sports 2
+http://59.103.38.46:8000/play/a126/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SQfZPMzq/images-(1)-(28).jpg" group-title="sports",Cricket Gold HD
 https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFKWRJ88/images-(11).jpg" group-title="sports",DD Sports
