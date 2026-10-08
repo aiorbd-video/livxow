@@ -48,7 +48,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KcMd3kx7/images-(16).jpg" group-title="movies",Bangla TV HD
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wLjr6wT/images-(1)-(2).jpg" group-title="movies",জলসা Movies HD
-http://103.165.93.31:8095/jalshaMovies/index.m3u8
+http://103.151.60.162:2122/play/a00x/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVhGXFB5/a96c24ed5d20a7b2f59edd67970d85f4.png" group-title="movies",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QMvfjm9X/images-(18).jpg" group-title="music",Sangeet Bangla
@@ -56,7 +56,7 @@ https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmnpDd26/unnamed-(1).jpg" group-title="music",Bengal Beats
 https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMZ4v60C/Star-Jalsha-HD-2019-Chalo-Paltai.webp" group-title="entertainment",Star Jalsha HD
-http://premiumtvs.space/live/YqXTywueEV/damp2purchase/198.ts
+http://103.151.60.162:2122/play/a00w/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTC95HZ6/Z-Bangla-logo.jpg" group-title="entertainment",Zee Bangla HD
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/63JZ1vZj/images-(13).jpg" group-title="entertainment",Enterten Bangla HD
@@ -117,8 +117,8 @@ http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNDXyTfP/images-(1)-(23).jpg" group-title="kids",Gopal Bhar Bangla
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKh4NNLK/Nick-logo-2009.png" group-title="kids",Nick Bangla
-http://live.balajibroadband.com:3500/live/1341.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKh4NNLK/Nick-logo-2009.png" group-title="kids",Nick Jr
+http://103.151.60.162:2122/play/a00s/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mDWLd471/images-(1)-(16).jpg" group-title="kids",Motu Patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q7H9gdPF/CNN-International-logo.jpg" group-title="news",CNN News
