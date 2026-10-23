@@ -51,8 +51,8 @@ https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTh7xtBG/images-(19).jpg" group-title="movies",Z Bangla Sonar HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KcMd3kx7/images-(16).jpg" group-title="movies",Bangla TV HD
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157577_ld_h15_aa.png?lock=720x540" group-title="movies",Colors Bangla Cinema
+http://103.151.60.162:2122/play/a02m/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wLjr6wT/images-(1)-(2).jpg" group-title="movies",জলসা Movies HD
 http://103.151.60.162:2122/play/a00x/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVhGXFB5/a96c24ed5d20a7b2f59edd67970d85f4.png" group-title="movies",ZB Cinema
@@ -98,13 +98,13 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/25X7tHpc/value-(1).png" group-title="movies",Hollywood Action Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7JLgrqC/images-(30).png" group-title="movies",HBO Hits  HD
-http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+http://tvsen7.aynascope.net/hbo2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0nKWvfF/images-(2)-(3).jpg" group-title="music",Zoom Music
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Z499545/images-(28).jpg" group-title="music",8XM HD
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LsCVmv1Y/9xm-red.webp" group-title="music",9XM HD
-https://9xjio.wiseplayout.com/9XM/master.m3u8
+https://streams.tangotv.in/9XM/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQHR37Rk/Balle-Balle.webp" group-title="music",Baallee Music
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png" group-title="kids",WOW Kids
@@ -128,17 +128,17 @@ https://c.mjh.nz/abc-kids.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q7H9gdPF/CNN-International-logo.jpg" group-title="news",CNN News
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bbr6K7Cm/images-(2)-(3).jpg" group-title="Discover",BBC Earth HD
-https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
+https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHpG1hL0/images-(26).jpg" group-title="Discover",Discovery HD
-http://202.70.146.135:8000/play/a05z/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjyK7hZD/Discovery-HD.jpg" group-title="Discover",Discovery HD 2
+https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wild_Earth.png" group-title="Discover",Wild Earth HD
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fLjw9kZh/10.jpg" group-title="Discover",travelxp  HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FKfV48SF/animal-planet-logo-brandlogos-net-psvki-300x300.png" group-title="Discover",Animal Plant HD
 https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G3T7jmkr/images-(19).png" group-title="Discover",National Geographic HD
-http://202.70.146.135:8000/play/a05o/index.m3u8
+http://103.151.60.162:2122/play/a01f/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NftLBS5H/channels4-profile.jpg" group-title="Discover",Love Nature
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBXSLhLr/images-(1)-(27).jpg" group-title="sports",Willow Sports
@@ -157,7 +157,5 @@ http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QYgTGv7/images-(9).png" group-title="news",AL Jazeera HD
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="discover",History
-https://freem3u.xyz/api/live/play.m3u8?vid=9856
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="movies",B4U Kadak
 https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
