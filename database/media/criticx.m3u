@@ -164,7 +164,7 @@ http://tvsen7.aynascope.net/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/PK%20Sports.jpeg" group-title="sports",PK Sports
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRgG8Gc8/images-(1)-(2).png" group-title="sports",Euro Sports HD
-https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
+https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpQVCrfw/images-(1)-(3).png" group-title="sports",Euro Sports 2
 https://s7.iptv-24.net/1452/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SQfZPMzq/images-(1)-(28).jpg" group-title="sports",Cricket Gold HD
