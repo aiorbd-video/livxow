@@ -74,7 +74,7 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/63JZ1vZj/images-(13).jpg" group-title="entertainment",Enterten Bangla HD
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_8/images/LOGO_HD/image.png" group-title="entertainment",Sony Aat
-https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
+http://27.124.71.27/Sony_Aath/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHMH6sgP/images-(2)-(11).jpg" group-title="entertainment",Sun Bangla HD
 http://27.124.71.27/Sun_Bangla/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0nBn4rp/Dd-Bangla.png" group-title="entertainment",DD Bangla
@@ -105,8 +105,6 @@ https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/25X7tHpc/value-(1).png" group-title="movies",Hollywood Action Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7JLgrqC/images-(30).png" group-title="movies",HBO Hits  HD
-http://tvsen7.aynascope.net/hbo2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0nKWvfF/images-(2)-(3).jpg" group-title="music",Zoom Music
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Z499545/images-(28).jpg" group-title="music",8XM HD
@@ -159,12 +157,12 @@ https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8
 https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KjFtKb0Q/channels4-profile-(6).jpg" group-title="sports",A Sports HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0vznnym/images-(1)-(30).jpg" group-title="sports",Star Sports 2 HD
-http://tvsen7.aynascope.net/ssport2hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/PK%20Sports.jpeg" group-title="sports",PK Sports
-https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRgG8Gc8/images-(1)-(2).png" group-title="sports",Euro Sports HD
-https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://msports.pk/wp-content/uploads/2026/02/m-sports-300.png" group-title="sports",M Sports HD
+https://cdn.rabta.stream/M-Sports/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4ynGSnf/images-(1)-(5).png" group-title="sports",Euro Sports HD
+http://103.253.74.210:7070/stream/122/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P52F9VbT/eurosport-logo-png-seeklogo-407861.png" group-title="sports",Eurosport 1
+https://s7.iptv-24.net/1439/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpQVCrfw/images-(1)-(3).png" group-title="sports",Euro Sports 2
 https://s7.iptv-24.net/1452/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SQfZPMzq/images-(1)-(28).jpg" group-title="sports",Cricket Gold HD
@@ -187,8 +185,6 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 https://samitaorigin.tangotv.in/KABADDI24X7/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" group-title="sports",Red Bool TV
 https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EuPvzJe.png" group-title="sports",Band Sports
-http://45.162.64.114/BAND_SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QYgTGv7/images-(9).png" group-title="news",AL Jazeera HD
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q7H9gdPF/CNN-International-logo.jpg" group-title="news",CNN News
@@ -206,4 +202,4 @@ https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159130_ld_h15_aa.png?lock=720x540" group-title="entertainment",Star Bharat
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FD8Tt7Q/images-(1)-(7).jpg" group-title="entertainment",Star Plus HD
-http://103.135.253.32:8080/STAR-PLUS/index.m3u8#skym3u.dev
+https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
